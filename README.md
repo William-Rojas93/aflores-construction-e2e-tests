@@ -18,3 +18,11 @@ End-to-end test automation project using [WebdriverIO](https://webdriver.io/).
 
 4. Run tests
     npx wdio run wdio.conf.js
+
+5. Notes
+
+Make sure you have Google Chrome installed.
+
+Tests are configured to run locally using the DevTools service (no Chromedriver setup required).
+
+Add additional tests under tests/specs/ to expand coverage.
