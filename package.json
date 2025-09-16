@@ -20,6 +20,7 @@
   "homepage": "https://github.com/William-Rojas93/aflores-construction-e2e-tests#readme",
   "devDependencies": {
     "@wdio/cli": "^9.19.2",
+    "@wdio/devtools-service": "^8.42.0",
     "@wdio/local-runner": "^9.19.2",
     "@wdio/mocha-framework": "^9.19.2",
     "@wdio/spec-reporter": "^9.19.2"
