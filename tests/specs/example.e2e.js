@@ -1,7 +1,7 @@
 describe('Aflores Construction Homepage Test', () => {
   it('should open the homepage and check the title', async () => {
     // Navigate to your website
-    await browser.url('https://www.afloresconstruction.com/');
+    await browser.url('/');
 
     // Get page title
     const title = await browser.getTitle();
