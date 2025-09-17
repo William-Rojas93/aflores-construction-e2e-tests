@@ -8,6 +8,6 @@ describe('Aflores Construction Homepage Test', () => {
     console.log('Page title is: ' + title);
 
     // Simple assertion (checks title contains a keyword)
-    expect(title).toContain('Aflores Construction'); 
+    expect(title).toContain('FLORES CONSTRUCTION: Denver Home Remodeling Company & Renovation Contractors'); 
   });
 });
